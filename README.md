@@ -52,3 +52,7 @@ https://www.co2levels.org/#sources
 https://www.temperaturerecord.org/#sources
 
 https://www.geo.fu-berlin.de/en/v/soga-py/Advanced-statistics/time-series-analysis/Data-sets-used/Ice-core-atmospheric-carbon-dioxide-record/index.html
+
+https://polarmet.osu.edu/datasets/Byrd_recon/
+
+https://en.tutiempo.net/climate/ws-898280.html  - New Temperature data from Dome C addition to Jouzel
