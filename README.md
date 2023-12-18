@@ -56,3 +56,5 @@ https://www.geo.fu-berlin.de/en/v/soga-py/Advanced-statistics/time-series-analys
 https://polarmet.osu.edu/datasets/Byrd_recon/
 
 https://en.tutiempo.net/climate/ws-898280.html  - New Temperature data from Dome C addition to Jouzel
+
+https://www.geeksforgeeks.org/how-to-sort-data-by-column-in-a-csv-file-in-python/
