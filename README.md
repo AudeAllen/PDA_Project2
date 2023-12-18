@@ -58,3 +58,5 @@ https://polarmet.osu.edu/datasets/Byrd_recon/
 https://en.tutiempo.net/climate/ws-898280.html  - New Temperature data from Dome C addition to Jouzel
 
 https://www.geeksforgeeks.org/how-to-sort-data-by-column-in-a-csv-file-in-python/
+
+https://www.digitalocean.com/community/tutorials/average-of-list-in-python
