@@ -62,3 +62,5 @@ https://www.geeksforgeeks.org/how-to-sort-data-by-column-in-a-csv-file-in-python
 https://www.digitalocean.com/community/tutorials/average-of-list-in-python
 
 https://datatofish.com/copy-file-python/
+
+https://www.datacamp.com/tutorial/line-plots-in-matplotlib-with-python
