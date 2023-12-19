@@ -64,3 +64,5 @@ https://www.digitalocean.com/community/tutorials/average-of-list-in-python
 https://datatofish.com/copy-file-python/
 
 https://www.datacamp.com/tutorial/line-plots-in-matplotlib-with-python
+
+https://www.geeksforgeeks.org/convert-excel-to-csv-in-python/
