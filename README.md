@@ -68,3 +68,11 @@ https://www.datacamp.com/tutorial/line-plots-in-matplotlib-with-python
 https://www.geeksforgeeks.org/convert-excel-to-csv-in-python/
 
 https://stackoverflow.com/questions/14762181/adding-a-y-axis-label-to-secondary-y-axis-in-matplotlib
+
+https://www.artobatours.com/articles/archaeology/bp-bc-bce-ad-ce-cal-mean/#:~:text=The%20'present'%20in%20BP%20is,and%20upper%20case%20means%20calibrated.
+
+https://desktop.arcgis.com/en/arcmap/latest/map/time/what-is-temporal-data.htm#:~:text=Temporal%20data%20is%20simply%20data,demographic%20trends%2C%20and%20so%20on
+
+https://gsg.uottawa.ca/data/haver/06-customizegraphs/lead-lag.htm#:~:text=Lead%20and%20Lag%20is%20used,and%20its%20impact%20on%20another.&text=A%20change%20in%20the%20price,for%20energy%2C%20just%20not%20immediately
+
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gml.noaa.gov/outreach/info_activities/pdfs/PSA_co2_and_temperature.pdf
