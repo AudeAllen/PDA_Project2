@@ -76,3 +76,9 @@ https://desktop.arcgis.com/en/arcmap/latest/map/time/what-is-temporal-data.htm#:
 https://gsg.uottawa.ca/data/haver/06-customizegraphs/lead-lag.htm#:~:text=Lead%20and%20Lag%20is%20used,and%20its%20impact%20on%20another.&text=A%20change%20in%20the%20price,for%20energy%2C%20just%20not%20immediately
 
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gml.noaa.gov/outreach/info_activities/pdfs/PSA_co2_and_temperature.pdf
+
+https://stackoverflow.com/questions/55535226/how-to-make-a-correlation-plot-with-a-certain-lag-of-two-time-series
+
+https://www.ncei.noaa.gov/access/paleo-search/?dataTypeId=7
+
+https://stackoverflow.com/questions/69117617/how-to-find-the-lag-between-two-time-series-using-cross-correlation
