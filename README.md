@@ -82,3 +82,5 @@ https://stackoverflow.com/questions/55535226/how-to-make-a-correlation-plot-with
 https://www.ncei.noaa.gov/access/paleo-search/?dataTypeId=7
 
 https://stackoverflow.com/questions/69117617/how-to-find-the-lag-between-two-time-series-using-cross-correlation
+
+https://climate.nasa.gov/vital-signs/methane/
