@@ -84,3 +84,7 @@ https://www.ncei.noaa.gov/access/paleo-search/?dataTypeId=7
 https://stackoverflow.com/questions/69117617/how-to-find-the-lag-between-two-time-series-using-cross-correlation
 
 https://climate.nasa.gov/vital-signs/methane/
+
+https://www.iea.org/reports/global-methane-tracker-2022/methane-and-climate-change
+
+https://www.bridgerphotonics.com/blog/how-does-methane-affect-environment#:~:text=Methane%20(CH4)%20is%20the%20main,which%20heat%20leaves%20the%20planet
