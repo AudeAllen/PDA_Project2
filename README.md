@@ -6,6 +6,17 @@
 * [1 Introduction project](#1-introduction-project)
     * [Problem Statement](#problem-statement)
 * [2 Software needed to run the project](#2-software-needed-to-run-the-project)	
+* [3 Analyse CO2 vs Temperature from 800kyrs](#3-analyse-cO2-vs-temperature-from-800kyrs)
+    * [Roughwork CO2 and Temperature](#roughwork-cO2-and-temperature)
+    * [Analysis CO2 and Temperature](#analysis-cO2-and-temperature)
+    * [Lead Lag CO2 and Temperature](#lead-lag-cO2-and-temperature)
+    * [Frequency Analysis CO2 and Temperature](#frequency-analysis-cO2-and-temperature)
+* [4 Analyse CH4 vs Temperature from 800kyrs](#4-analyse-cH4-vs-temperature-from-800kyrs)
+    * [Roughwork CH4 and Temperature](#roughwork-cH4-and-temperature)
+    * [Analysis CH4 and Temperature](#analysis-cH4-and-temperature)
+    * [Lead Lag CH4 and Temperature](#lead-lag-cH4-and-temperature)
+    * [Frequency Analysis CH4 and Temperature](#frequency-analysis-cH4-and-temperature)
+* [5 Analyse Irish Context](#5-analyse-irish-context)		
 
 
 
@@ -31,6 +42,16 @@
 - Predict global temperature anomaly over next few decades (synthesise data) and compare to published climate models if atmospheric CO2 trends continue <br>
 
 - Comment on accelerated warming based on very latest features (e.g. temperature/polar-ice-coverage)<br>
+
+2 Software needed to run the project
+======
+
+3 Analyse CO2 vs Temperature from 800kyrs
+======
+
+4 Analyse CO4 vs Temperature from 800kyrs
+======
+
 
 
 References
