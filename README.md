@@ -46,6 +46,18 @@
 2 Software needed to run the project
 ======
 
+- scikit learn
+- pandas
+- numpy
+
+Please see below for the different tools and packages that I am using for the tasks and anslyses.
+
+Download Anaconda - Anaconda is a package that aims to simplify package management
+Download Visual Studio Code
+Jupyer Notebook
+Download Github - https://github.com/AudeAllen/PDA_Project2.git
+To run the tasks simply click on 'Run all' for tasks.ipynb. The project is a mix of code and markdown blocks which explain each part of each task. You can perform this action either in Visual Studio code or in Anconda in Jupyer Notebook.
+
 3 Analyse CO2 vs Temperature from 800kyrs
 ======
 
