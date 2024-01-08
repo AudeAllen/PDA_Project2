@@ -69,73 +69,19 @@ This section contains analysis of both CO2 and temperature data from the ice cor
 
 This section contains a roughwork section.
 
-4 Analyse CO4 vs Temperature from 800kyrs
+4 Analyse CH4 vs Temperature from 800kyrs
 ======
 
 This section contains analysis of both CO4 and temperature data from the ice cores dating back 800K years ago. I have also amalgamated more recent data from other sources such as Mauna Loa data.
 
 I have included a roughwork section in this part of the project also.
 
-4 Analyse Irish Context
+5 Analyse Irish Context
 ======
 
 In this section of my project I have completed analysis of Irelands temperature anomoly from the early 1900's to the present day. I have looked at lead, lag features during this analysis as well as frequency analysis
 
+6 Predict Global Temperature Anomoly
+======
 
-References
-
-https://royalsociety.org/topics-policy/projects/climate-change-evidence-causes/question-7/#:~:text=Measurements%20of%20air%20in%20ice,particularly%20remarkable%20%5Bfigure%203%5D
-
-https://theconversation.com/the-three-minute-story-of-800-000-years-of-climate-change-with-a-sting-in-the-tail-73368#:~:text=Thousands%20of%20years%20of%20snow,has%20varied%20through%20the%20millennia
-
-https://gml.noaa.gov/ccgg/trends/data.html
-
-https://sealevel.info/co2.html
-
-https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/
-
-https://www.co2levels.org/
-
-https://www.co2levels.org/#sources
-
-https://www.temperaturerecord.org/#sources
-
-https://www.geo.fu-berlin.de/en/v/soga-py/Advanced-statistics/time-series-analysis/Data-sets-used/Ice-core-atmospheric-carbon-dioxide-record/index.html
-
-https://polarmet.osu.edu/datasets/Byrd_recon/
-
-https://en.tutiempo.net/climate/ws-898280.html  - New Temperature data from Dome C addition to Jouzel
-
-https://www.geeksforgeeks.org/how-to-sort-data-by-column-in-a-csv-file-in-python/
-
-https://www.digitalocean.com/community/tutorials/average-of-list-in-python
-
-https://datatofish.com/copy-file-python/
-
-https://www.datacamp.com/tutorial/line-plots-in-matplotlib-with-python
-
-https://www.geeksforgeeks.org/convert-excel-to-csv-in-python/
-
-https://stackoverflow.com/questions/14762181/adding-a-y-axis-label-to-secondary-y-axis-in-matplotlib
-
-https://www.artobatours.com/articles/archaeology/bp-bc-bce-ad-ce-cal-mean/#:~:text=The%20'present'%20in%20BP%20is,and%20upper%20case%20means%20calibrated.
-
-https://desktop.arcgis.com/en/arcmap/latest/map/time/what-is-temporal-data.htm#:~:text=Temporal%20data%20is%20simply%20data,demographic%20trends%2C%20and%20so%20on
-
-https://gsg.uottawa.ca/data/haver/06-customizegraphs/lead-lag.htm#:~:text=Lead%20and%20Lag%20is%20used,and%20its%20impact%20on%20another.&text=A%20change%20in%20the%20price,for%20energy%2C%20just%20not%20immediately
-
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gml.noaa.gov/outreach/info_activities/pdfs/PSA_co2_and_temperature.pdf
-
-https://stackoverflow.com/questions/55535226/how-to-make-a-correlation-plot-with-a-certain-lag-of-two-time-series
-
-https://www.ncei.noaa.gov/access/paleo-search/?dataTypeId=7
-
-https://stackoverflow.com/questions/69117617/how-to-find-the-lag-between-two-time-series-using-cross-correlation
-
-https://climate.nasa.gov/vital-signs/methane/
-
-https://www.iea.org/reports/global-methane-tracker-2022/methane-and-climate-change
-
-https://www.bridgerphotonics.com/blog/how-does-methane-affect-environment#:~:text=Methane%20(CH4)%20is%20the%20main,which%20heat%20leaves%20the%20planet
-
-https://euanmearns.com/the-vostok-ice-core-temperature-co2-and-ch4/#:~:text=Temperature%20and%20CH4%20are%20extremely,global%20geochemical%20cycles%20are%20different
+In this section I will predict global temperature anomaly over next few decades by performing regression analysis on the temperature anomoly data. This data spans a number of decades from 1850 to 2023.
