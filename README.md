@@ -16,7 +16,8 @@
     * [Analysis CH4 and Temperature](#analysis-cH4-and-temperature)
     * [Lead Lag CH4 and Temperature](#lead-lag-cH4-and-temperature)
     * [Frequency Analysis CH4 and Temperature](#frequency-analysis-cH4-and-temperature)
-* [5 Analyse Irish Context](#5-analyse-irish-context)		
+* [5 Analyse Irish Context](#5-analyse-irish-context)
+* [6 Predict Global Temperature Anomoly](#6-predict-global-temperature-anomoly)		
 
 
 
@@ -46,29 +47,39 @@
 2 Software needed to run the project
 ======
 
+Please see below for the different tools and packages that I am using for the tasks and anslyses.
+
+Download Anaconda - Anaconda is a package that aims to simplify package management
 - scikit learn
 - pandas
 - numpy
 
-Please see below for the different tools and packages that I am using for the tasks and anslyses.
+- Download Visual Studio Code
 
-Download Anaconda - Anaconda is a package that aims to simplify package management
-Download Visual Studio Code
-Jupyer Notebook
-Download Github - https://github.com/AudeAllen/PDA_Project2.git
-To run the tasks simply click on 'Run all' for tasks.ipynb. The project is a mix of code and markdown blocks which explain each part of each task. You can perform this action either in Visual Studio code or in Anconda in Jupyer Notebook.
+- Jupyer Notebook
+
+- Download Github - https://github.com/AudeAllen/PDA_Project2.git
+
+To run the tasks simply click on 'Run all' for PDA_Project2.ipynb. The project is a mix of code and markdown blocks which explain each part of each task. You can perform this action either in Visual Studio code or in Anconda in Jupyer Notebook.
 
 3 Analyse CO2 vs Temperature from 800kyrs
 ======
 
+This section contains analysis of both CO2 and temperature data from the ice cores dating back 800K years ago. I have also amalgamated more recent data from other sources such as Mauna Loa data.
+
+This section contains a roughwork section.
+
 4 Analyse CO4 vs Temperature from 800kyrs
 ======
 
+This section contains analysis of both CO4 and temperature data from the ice cores dating back 800K years ago. I have also amalgamated more recent data from other sources such as Mauna Loa data.
+
+I have included a roughwork section in this part of the project also.
 
 4 Analyse Irish Context
 ======
 
-
+In this section of my project I have completed analysis of Irelands temperature anomoly from the early 1900's to the present day. I have looked at lead, lag features during this analysis as well as frequency analysis
 
 
 References
