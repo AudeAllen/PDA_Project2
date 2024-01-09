@@ -71,11 +71,19 @@ This section contains a roughwork section.
 
 ### ***Roughwork CO2 and Temperature***
 
+Roughwork pre analysis of CO2 and Temperature
+
 ### ***Analysis CO2 and Temperature***
+
+Graphs and analysis of CO2 and Temperature.
 
 ### ***Lead Lag CO2 and Temperature***
 
+Graphs of lead and lag analysis. Analysis on these graphs.
+
 ### ***Frequency Analysis CO2 and Temperature***
+
+Frequency analysis on both CO2 and temperature using the Fourier Transform.
 
 
 4 Analyse CH4 vs Temperature from 800kyrs
@@ -87,18 +95,26 @@ I have included a roughwork section in this part of the project also.
 
 ### ***Roughwork CH4 and Temperature***
 
+Roughwork pre analysis of CH4 and Temperature
+
 ### ***Analysis CH4 and Temperature***
+
+Graphs and analysis of CH4 and Temperature.
 
 ### ***Lead Lag CH4 and Temperature***
 
+Graphs of lead and lag analysis. Analysis on these graphs.
+
 ### ***Frequency Analysis CH4 and Temperature***
+
+Frequency analysis on both CH4 and temperature using the Fourier Transform.
 
 5 Analyse Irish Context
 ======
 
-In this section of my project I have completed analysis of Irelands temperature anomoly from the early 1900's to the present day. I have looked at lead, lag features during this analysis as well as frequency analysis
+In this section of my project I have completed analysis of Irelands temperature anomoly from the early 1900's to the present day. I have looked at lead, lag features as well as frequency analysis/
 
 6 Predict Global Temperature Anomoly
 ======
 
-In this section I will predict global temperature anomaly over next few decades by performing regression analysis on the temperature anomoly data. This data spans a number of decades from 1850 to 2023.
+In this section I will predict global temperature anomaly over next few decades by performing regression analysis on the temperature anomoly data. This base data spans a number of decades from 1850 to 2023.
