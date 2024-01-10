@@ -64,7 +64,7 @@ I have split the roughwork data, final data and images into separate folders und
 
 Images - Most images and plots generated will be copied into the Images folder
 
-RougRoughwork_CO2 - Contains roughwork for CO2 data
+Roughwork_CO2 - Contains roughwork for CO2 data
 
 Roughwork_Temperature - Contains roughwork for temperature data
 
