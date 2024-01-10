@@ -62,17 +62,17 @@ Download Anaconda - Anaconda is a package that aims to simplify package manageme
 
 I have split the roughwork data, final data and images into separate folders under PDA_PROJECT2.
 
-Images - Most images and plots generated will be copied into the Images folder
+- Images - Most images and plots generated will be copied into the Images folder
 
-Roughwork_CO2 - Contains roughwork for CO2 data
+- Roughwork_CO2 - Contains roughwork for CO2 data
 
-Roughwork_Temperature - Contains roughwork for temperature data
+- Roughwork_Temperature - Contains roughwork for temperature data
 
-Roughwork_Methane - Contains roughwork for Methane data
+- Roughwork_Methane - Contains roughwork for Methane data
 
-Roughwork_Irish - Contains roughwork for Irish Context - Temperature and Precipitation
+- Roughwork_Irish - Contains roughwork for Irish Context - Temperature and Precipitation
 
-RegressionAnalysis - Data and  roughwork for regression analysis for temperature anomoly 
+- RegressionAnalysis - Data and  roughwork for regression analysis for temperature anomoly 
 
 To run the tasks simply click on 'Run all' for PDA_Project2.ipynb. The project is a mix of code and markdown blocks which explain each part of each task. You can perform this action either in Visual Studio code or in Anconda in Jupyer Notebook.
 
@@ -126,7 +126,7 @@ Frequency analysis on both CH4 and temperature using the Fourier Transform.
 5 Analyse Irish Context
 ======
 
-In this section of my project I have completed analysis of Irelands temperature anomoly from the early 1900's to the present day. I have looked at lead, lag features as well as frequency analysis/
+In this section of my project I have completed analysis of Irelands temperature anomoly from the early 1900's to the present day. I have looked at lead, lag features as well as frequency analysis.
 
 6 Predict Global Temperature Anomoly
 ======
