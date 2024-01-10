@@ -60,6 +60,20 @@ Download Anaconda - Anaconda is a package that aims to simplify package manageme
 
 - Download Github - https://github.com/AudeAllen/PDA_Project2.git
 
+I have split the roughwork data, final data and images into separate folders under PDA_PROJECT2.
+
+Images - Most images and plots generated will be copied into the Images folder
+
+RougRoughwork_CO2 - Contains roughwork for CO2 data
+
+Roughwork_Temperature - Contains roughwork for temperature data
+
+Roughwork_Methane - Contains roughwork for Methane data
+
+Roughwork_Irish - Contains roughwork for Irish Context - Temperature and Precipitation
+
+RegressionAnalysis - Data and  roughwork for regression analysis for temperature anomoly 
+
 To run the tasks simply click on 'Run all' for PDA_Project2.ipynb. The project is a mix of code and markdown blocks which explain each part of each task. You can perform this action either in Visual Studio code or in Anconda in Jupyer Notebook.
 
 3 Analyse CO2 vs Temperature from 800kyrs
